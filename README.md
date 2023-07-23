@@ -53,7 +53,6 @@ Untuk fitur EmployeeNumber juga sebaiknya di drop karena fitur ini merupakan fit
 
 ## Multivariate Analysis
 Hasil Observasi Multivariate Analysis:
-Dari grafik Heatmap yang terlampir didapatkan beberapa pandangan, berupa :  
 - Terdapat beberapa feature yang memiliki korelasi yang cukup kuat dengan tarfet feature dengan nilai di atas 0,10 seperti feature age, jobinvolvemen, joblevel, monthlyincome, stokoptionlevel, totalworkingyears, yeasratcompany, dan yearsincurrentrole
 - korelasi paling tinggi terletak pada nilai 0,17 pada feature totalworkingyears dan joblevel menandakan bahwa 2 faktor tersebut yang paling tinggi mempengaruhi Attrition 
 - Terdapat kekosongan nilai korelasi di kolom EmployeeCount dan StandardHours, dikarena nilai dalam kolom tersebut konstan.
