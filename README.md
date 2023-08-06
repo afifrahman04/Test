@@ -1,5 +1,4 @@
 # Employee Attrition
-coba kalii yaahhhh woiiiiii
 ## Dataset
 
 - WA*Fn-UseC*-HR-Employee-Attrition
