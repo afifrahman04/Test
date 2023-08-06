@@ -1,7 +1,4 @@
 # Employee Attrition
-
-edit test ntah
-
 ## Dataset
 
 - WA*Fn-UseC*-HR-Employee-Attrition
