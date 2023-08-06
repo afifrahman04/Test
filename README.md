@@ -1,15 +1,6 @@
 # Employee Attrition
 ## Dataset
-asdasdassdas
-asdasd
-asdas
-da
-sdsa
-das
-asdas
-da
-asda
-sda
+
 - WA*Fn-UseC*-HR-Employee-Attrition
 
 ### Deskripsi
