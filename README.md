@@ -1,12 +1,12 @@
 # Employee Attrition
-coba kalii yaahhhh
+cak dulu ko test
 ## Dataset
 
 - WA*Fn-UseC*-HR-Employee-Attrition
 
 ### Deskripsi
 
-- Dataset ini digunakan untuk menganalisis faktor-faktor yang menyebabkan pergantian karyawan (attrition) di suatu perusahaan. Tujuan analisis ini adalah untuk menentukan faktor-faktor yang dapat diubah guna mencegah kehilangan karyawan yang berpotensi baik. Watson Analytics digunakan sebagai alat analisis. yang baik.
+- Dataset ini digasdaunakan untuk menganalisis faktor-faktor yang menyebabkan pergantian karyawan (attrition) di suatu perusahaan. Tujuan analisis ini adalah untuk menentukan faktor-faktor yang dapat diubah guna mencegah kehilangan karyawan yang berpotensi baik. Watson Analytics digunakan sebagai alat analisis. yang baik.
 
 ### Data
 
