@@ -4,7 +4,7 @@ sadasdasdasd
 
 ## Dataset
 
-/ akun laen
+/ akun laea
 
 - WA*Fn-UseC*-HR-Employee-Attrition
 
