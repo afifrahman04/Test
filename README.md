@@ -4,8 +4,6 @@ sadasdasdasd
 
 ## Dataset
 
-test2
-
 - WA*Fn-UseC*-HR-Employee-Attrition
 
 ### Deskripsi
