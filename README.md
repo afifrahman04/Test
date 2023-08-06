@@ -1,5 +1,4 @@
 # Employee Attrition
-tambahan apa saja
 ## Dataset
 
 - WA*Fn-UseC*-HR-Employee-Attrition
