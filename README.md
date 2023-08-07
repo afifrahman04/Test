@@ -1,7 +1,5 @@
 # Employee Attrition
-sss
-sadasdasdasd
-fghfh
+edit by afif
 
 ## Dataset
 
